@@ -114,4 +114,27 @@ body {
     text-align: center;
     padding: 10px 0;
   }
+  /* Add this to your styles.css file */
+.highlight-title {
+  font-size: 2.5rem;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 119, 182, 0.7); /* Using your theme blue color with transparency */
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.highlight-tagline {
+  font-size: 1.4rem;
+  font-weight: 500;
+  background-color: rgba(0, 180, 216, 0.7); /* Using your accent blue color with transparency */
+  padding: 8px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  color: white;
+  margin-bottom: 20px;
+}
+
   
